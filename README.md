@@ -1,4 +1,7 @@
-### PRISTINE-REACT-NATIVE
+## PRISTINE-REACT-NATIVE
+
+[![React Native](https://img.shields.io/badge/React%20Native-v0.62.2-green.svg)](https://facebook.github.io/react-native/)
+
 - NO `expo` 
 - works on `ios` and `android`
 - based on latest RN cli
@@ -13,13 +16,3 @@
 
 #### Demo
 ![demo](https://github.com/saurshaz/pristine-react-native/blob/master/demo.png?raw=true)
-
-#### TODOs
-- [ ] build a better demo app
-    - [ ] add `router` config
-    - [ ] add `redux`
-    - [ ] add configurable `forms`
-    - [ ] add `lottie`
-    - [ ] add `tour`
-    - [ ] add `authentication` module
-
