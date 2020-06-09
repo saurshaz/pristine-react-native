@@ -12,8 +12,7 @@
 - `npm start` to run the bundle serving server
 
 #### Demo
-[!demo.png]
-
+![demo](https://github.com/saurshaz/pristine-react-native/blob/master/demo.png?raw=true)
 
 #### TODOs
 - [ ] build a better demo app
